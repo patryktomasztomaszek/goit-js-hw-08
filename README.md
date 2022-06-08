@@ -1,3 +1,6 @@
+---
+permalink: src/index.html
+---
 # Zadanie domowe JavaScript 08
 
 goit-js-hw-08
